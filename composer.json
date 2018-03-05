@@ -1,0 +1,9 @@
+{
+    "name": "hugo/s4",
+    "description": "Composer",
+    "require": {
+        "zendframework/zend-feed": "^2.7",
+        "zendframework/zend-http": "^2.6",
+        "symfony/yaml": "^3.4"
+    }
+}
